@@ -11,7 +11,7 @@ $siteName = "Imobiliária";
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
-    <link rel="shortcut icon" href="IMOBILIARIA LOGO.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../../assets/images/icons/IMOBILIARIA LOGO.png" type="image/x-icon">
     <style>
         .header-scrolled {
             background: rgba(30, 58, 138, 0.95);
@@ -86,13 +86,13 @@ $siteName = "Imobiliária";
                 
                 <!-- Desktop Menu -->
                 <div class="hidden md:flex items-center space-x-4">
-                    <a href="index.php" class="nav-link text-white">Home</a>
-                    <a href="quem-somos.php" class="nav-link text-white">Quem Somos</a>
-                    <a href="servicos.php" class="nav-link text-white">Serviços</a>
-                    <a href="parceiros.php" class="nav-link text-white">Parceiros</a>
-                    <a href="contato.php" class="nav-link text-white">Contato</a>
-                    <a href="simulador.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-bold hover:bg-blue-50 transition duration-300">Simulador</a>
-                    <a href="area-parceiros.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-bold hover:bg-blue-50 transition duration-300">Área Parceiros</a>
+                    <a href="/imobiliaria/index.php" class="nav-link text-white">Home</a>
+                    <a href="/imobiliaria/quem-somos.php" class="nav-link text-white">Quem Somos</a>
+                    <a href="/imobiliaria/servicos.php" class="nav-link text-white">Serviços</a>
+                    <a href="/imobiliaria/pages/parceiros/parceiros.php" class="nav-link text-white">Parceiros</a>
+                    <a href="/imobiliaria/contato.php" class="nav-link text-white">Contato</a>
+                    <a href="/imobiliaria/simulador.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-bold hover:bg-blue-50 transition duration-300">Simulador</a>
+                    <a href="/imobiliaria/pages/parceiros/area-parceiros.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-bold hover:bg-blue-50 transition duration-300">Área Parceiros</a>
                 </div>
 
                 <!-- Mobile Menu Button -->
@@ -104,13 +104,13 @@ $siteName = "Imobiliária";
             <!-- Mobile Menu -->
             <div class="md:hidden mobile-menu absolute top-full left-0 w-full bg-blue-900 py-4 px-6 shadow-lg" id="mobile-menu">
                 <div class="flex flex-col space-y-4">
-                    <a href="index.php" class="text-white hover:text-blue-200 py-2">Home</a>
-                    <a href="quem-somos.php" class="text-white hover:text-blue-200 py-2">Quem Somos</a>
-                    <a href="servicos.php" class="text-white hover:text-blue-200 py-2">Serviços</a>
-                    <a href="parceiros.php" class="text-white hover:text-blue-200 py-2">Parceiros</a>
-                    <a href="contato.php" class="text-white hover:text-blue-200 py-2">Contato</a>
-                    <a href="simulador.php" class="bg-white text-blue-900 px-6 py-3 rounded-full font-bold text-center hover:bg-blue-50 transition duration-300 mt-2">Simulador</a>
-                    <a href="area-parceiros.php" class="bg-white text-blue-900 px-6 py-3 rounded-full font-bold text-center hover:bg-blue-50 transition duration-300">Área Parceiros</a>
+                    <a href="/imobiliaria/index.php" class="text-white hover:text-blue-200 py-2">Home</a>
+                    <a href="/imobiliaria/quem-somos.php" class="text-white hover:text-blue-200 py-2">Quem Somos</a>
+                    <a href="/imobiliaria/servicos.php" class="text-white hover:text-blue-200 py-2">Serviços</a>
+                    <a href="/imobiliaria/pages/parceiros/parceiros.php" class="text-white hover:text-blue-200 py-2">Parceiros</a>
+                    <a href="/imobiliaria/contato.php" class="text-white hover:text-blue-200 py-2">Contato</a>
+                    <a href="/imobiliaria/simulador.php" class="bg-white text-blue-900 px-6 py-3 rounded-full font-bold text-center hover:bg-blue-50 transition duration-300 mt-2">Simulador</a>
+                    <a href="/imobiliaria/pages/parceiros/area-parceiros.php" class="bg-white text-blue-900 px-6 py-3 rounded-full font-bold text-center hover:bg-blue-50 transition duration-300">Área Parceiros</a>
                 </div>
             </div>
         </nav>

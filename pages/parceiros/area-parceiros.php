@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include '../../includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="relative py-20 bg-blue-900">
@@ -75,4 +75,4 @@
     });
 </script>
 
-<?php include 'includes/footer.php'; ?> 
+<?php include '../../includes/footer.php'; ?> 

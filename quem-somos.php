@@ -72,7 +72,7 @@
         </div>
         <div class="grid md:grid-cols-3 gap-8">
             <div class="bg-gray-50 rounded-xl overflow-hidden">
-                <img src="CEO.png" alt="CEO" class="w-full h-64 object-cover">
+                <img src="assets/images/CEO.png" alt="CEO" class="w-full h-64 object-cover">
                 <div class="p-6">
                     <h3 class="text-xl font-bold mb-2">João Silva</h3>
                     <p class="text-blue-900 mb-4">CEO</p>
@@ -80,7 +80,7 @@
                 </div>
             </div>
             <div class="bg-gray-50 rounded-xl overflow-hidden">
-                <img src="MARIA.png" alt="Diretora Comercial" class="w-full h-64 object-cover">
+                <img src="assets/images/MARIA.png" alt="Diretora Comercial" class="w-full h-64 object-cover">
                 <div class="p-6">
                     <h3 class="text-xl font-bold mb-2">Maria Santos</h3>
                     <p class="text-blue-900 mb-4">Diretora Comercial</p>
@@ -88,7 +88,7 @@
                 </div>
             </div>
             <div class="bg-gray-50 rounded-xl overflow-hidden">
-                <img src="PEDRO.png" alt="Diretor Financeiro" class="w-full h-64 object-cover">
+                <img src="assets/images/PEDRO.png" alt="Diretor Financeiro" class="w-full h-64 object-cover">
                 <div class="p-6">
                     <h3 class="text-xl font-bold mb-2">Pedro Lima</h3>
                     <p class="text-blue-900 mb-4">Diretor Financeiro</p>
