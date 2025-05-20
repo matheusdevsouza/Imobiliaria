@@ -122,7 +122,7 @@
             <div class="relative bg-[color:#FFFFFF] rounded-xl shadow-lg overflow-hidden transform transition duration-300 hover:-translate-y-2">
                 <div class="absolute inset-0 bg-gradient-to-br from-[color:#FFFFFF] to-gray-50 opacity-90"></div>
                 <div class="relative flex items-center justify-center h-32 p-6">
-                    <img src="CAIXA.png" alt="Caixa" class="h-16 object-contain transition-transform duration-300 group-hover:scale-105">
+                    <img src="assets/images/CAIXA.png" alt="Caixa" class="h-16 object-contain transition-transform duration-300 group-hover:scale-105">
                 </div>
                 <div class="absolute inset-0 bg-gradient-to-r from-transparent via-blue-200/50 to-transparent opacity-0 group-hover:opacity-60 transition-opacity duration-500"></div>
             </div>
