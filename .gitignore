@@ -1,0 +1,114 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+/node_modules/
+package-lock.json
+composer.lock
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+logs/
+storage/
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.temp
+.cache/
+tmp/
+temp/
+
+# Build and compiled files
+/dist/
+/build/
+*.min.js
+*.min.css
+*.map
+
+# Firebase credentials and config
+firebase-credentials.json
+firebase-config.json
+google-services.json
+GoogleService-Info.plist
+
+# MongoDB data
+/data/db/
+mongodb.log
+
+# XAMPP specific
+/xampp/
+/htdocs/
+/apache/
+/mysql/
+
+# Backup files
+*.bak
+*.backup
+*~
+*.old
+
+# Uploaded files and media
+/uploads/
+/media/
+/public/uploads/
+
+# Configuration files with sensitive data
+config/database.php
+config/mail.php
+config/app.php
+config/services.php
+
+# SSL certificates and keys
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.p12
+*.pfx
+
+# API keys and secrets
+api-keys.json
+secrets.json
+credentials.json
+
+# Test coverage and reports
+/coverage/
+/reports/
+.phpunit.result.cache
+
+# Composer
+composer.phar
+composer-setup.php
+
+# Node
+.npm
+.npmrc
+node_modules/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
